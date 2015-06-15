@@ -14,10 +14,6 @@ developer in the long run.
 
 This repository is a collection of notes I have gathered during my journey of
 learning docker. Mostly everything is sourced from the official(lly great) [Docker
-User Guide](http://docs.docker.com/userguide). You can identify source URLs
-throughout the repository when by the [*] which will correspond to a link
-reference somewhere below the initial reference. The [*] links will be reused
-throughout the file and can have multiple asterisks if many sources are attributed
-in a single section.
+User Guide](http://docs.docker.com/userguide).
 
 Enjoy reading. Thanks.
