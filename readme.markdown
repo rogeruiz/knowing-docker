@@ -7,7 +7,7 @@ the tin. But what I was missing really was practice and discipline and courage.
 I like to step into things knowing as many of things as I should know given people
 who I see as peers, or more accurately people who I would like to see as peers.
 
-I started working on a project with an old coworker friend and he used was using
+I started working on a project with an old coworker friend and he was using
 docker. I could always count on him to push me a little bit out of my comfort zone
 and towards new things that would challenge me at first but make me a better
 developer in the long run.
